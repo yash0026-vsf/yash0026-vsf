@@ -37,14 +37,14 @@ Working on ML projects, trying out different algorithms, and turning ideas into 
 <tr>
 <td width="50%">
 
-### 💡 What I Enjoy
+###  What I Enjoy
 
 Solving problems, experimenting with code, and figuring out how things work.
 
 </td>
 <td width="50%">
 
-### 🌱 My Goal
+###  My Goal
 
 Keep learning, build useful projects, and become better at what I do every day.
 
@@ -54,7 +54,7 @@ Keep learning, build useful projects, and become better at what I do every day.
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <div align="center">
 
@@ -70,6 +70,6 @@ Keep learning, build useful projects, and become better at what I do every day.
 
 <div align="center">
 
-*Still learning, still building, and just getting started.* ✨
+*Still learning, still building, and just getting started.* 
 
 </div>

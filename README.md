@@ -1,11 +1,11 @@
 
 <div align="center">
 
-# <span style="color:#58A6FF;">Hey, I'm Yash 👋</span>
+# <span style="color:#58A6FF;">Hey, I'm Yash </span>
 
 ### AI/ML Student | Python Developer | Lifelong Learner
 
-*Learning by doing, one project at a time.* 🚀
+*Learning by doing, one project at a time.* 
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -15,20 +15,20 @@
 
 ---
 
-## ✨ A Little About Me
+##  A Little About Me
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 What I'm Learning
+###  What I'm Learning
 
 Exploring AI and Machine Learning, understanding how models work, and learning new concepts along the way.
 
 </td>
 <td width="50%">
 
-### 🔨 What I'm Building
+###  What I'm Building
 
 Working on ML projects, trying out different algorithms, and turning ideas into working solutions.
 

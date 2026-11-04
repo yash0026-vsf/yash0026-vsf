@@ -1,9 +1,9 @@
-
+   
 <div align="center">
 
 # <span style="color:#58A6FF;">Hey, I'm Yash </span>
 
-### AI/ML Student | Python Developer 
+### AI/ML Student | Python Developer. 
 
 *Learning by doing, one project at a time.* 
 
